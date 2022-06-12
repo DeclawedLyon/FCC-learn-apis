@@ -5,8 +5,8 @@
   "private": true,
   "main": "server.js",
   "scripts": {
-    "start": "node ./bin/www",
-    "initialize": "node server.js"
+    "initialize": "node ./bin/www",
+    "start": "node server.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
