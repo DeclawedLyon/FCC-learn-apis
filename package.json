@@ -21,5 +21,6 @@
   "repository": {
     "type": "git",
     "url": "https://declawedlyon/fcc-learn-apis.git"
-  }
+  },
+  "license": "MIT"
 }
