@@ -52,6 +52,7 @@
        .send(err.message || 'SERVER ERROR');
    }  
  })
+ console.log("Hello World")
  
  //Listen on port set in environment variable or default to 3000
  const listener = app.listen(process.env.PORT || 3000, function () {
